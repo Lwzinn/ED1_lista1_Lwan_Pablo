@@ -11,7 +11,7 @@ int main(){
 
     printf("\nValores na ordem inversa:\n");
 
-    for(i = 5; i >= 0; i--){
+    for(i = 5; i >= 0; i++){
         printf("%d ", v[i]);
     }
 
